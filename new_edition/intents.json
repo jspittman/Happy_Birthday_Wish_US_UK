@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "MomIntent"
+    },
+    {
+      "intent": "DadIntent"
+    },
+    {
+      "intent": "SisterIntent"
+    },
+    {
+      "intent": "BrotherIntent"
+    },
+    {
+      "intent": "FriendIntent"
+    },
+    {
+      "intent": "GrandpaIntent"
+    },
+    {
+      "intent": "GrandmaIntent"
+    },
+    {
+      "intent": "SonIntent"
+    },
+    {
+      "intent": "DaughterIntent"
+    },
+    {
+      "intent": "WhatsMyColorIntent"
+    },
+    {
+      "intent": "RequestIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
