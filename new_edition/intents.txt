@@ -1,0 +1,67 @@
+MomIntent mom
+MomIntent mother
+MomIntent mama
+MomIntent mommy
+MomIntent mum
+MomIntent my mom
+MomIntent my mother
+MomIntent my mama
+MomIntent my mommy
+MomIntent my mum
+MomIntent our mom
+MomIntent our mother
+MomIntent out mama
+MomIntent our mommy
+MomIntent our mum
+DadIntent dad
+DadIntent daddy
+DadIntent papa
+DadIntent my daddy
+DadIntent my dad
+DadIntent my papa
+SisterIntent sister
+SisterIntent sis
+SisterIntent sista
+SisterIntent my sister
+SisterIntent my sis
+SisterIntent my sista
+BrotherIntent brother
+BrotherIntent bro
+BrotherIntent my brother
+FriendIntent friend
+FriendIntent my friend
+FriendIntent good friend
+FriendIntent best friend
+GrandpaIntent grandpa
+GrandpaIntent gramps
+GrandpaIntent my grandpa
+GrandpaIntent my gramps
+GrandpaIntent grandma
+GrandpaIntent my grandma
+SonIntent son
+SonIntent my son
+SonIntent our son
+SonIntent my only son
+SonIntent my wonderful son
+SonIntent my terrible son
+DaughterIntent daughter
+DaughterIntent my daughter
+DaughterIntent our daughter
+DaughterIntent our wonderful daughter
+DaughterIntent our terrible daughter
+DaughterIntent my terrible daughter
+WhatsMyColorIntent test
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help please
+AMAZON.StopIntent stop
+AMAZON.StopIntent quit
+AMAZON.StopIntent end
+AMAZON.StopIntent shut up
+AMAZON.StopIntent quit it
+AMAZON.StopIntent stop right now
+AMAZON.StopIntent all done
+AMAZON.StopIntent all done thanks
+AMAZON.StopIntent no thank you
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no
+AMAZON.CancelIntent cancel
